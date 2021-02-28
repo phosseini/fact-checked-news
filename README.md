@@ -1,2 +1,1 @@
-# fact-checked-news
-A collection of fact-checked news articles
+# Fact-checked News Article Collection
