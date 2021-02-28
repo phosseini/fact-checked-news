@@ -5,5 +5,4 @@ In this repository, we keep a collection of fact-checked news articles to make t
 ## List of datasets
 
 ### Facebook URL dataset:
-A limited number of fact-checked news articles with their full text from the [Facebook Privacy-Protected Full URLs Data Set](https://socialscience.one/facebook-dataverse).
-* Data path: `data/facebook_url_data`
+* Data path: `data/facebook_url_data`: a limited number of fact-checked news articles with their full text from the [Facebook Privacy-Protected Full URLs Data Set](https://socialscience.one/facebook-dataverse).
