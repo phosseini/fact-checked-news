@@ -1,4 +1,4 @@
-# Fact-checked News Article Collection
+# Fact-checked News Articles Collection
 
 In this repository, we keep a collection of fact-checked news articles to make them easily accessible for research purposes.
 
